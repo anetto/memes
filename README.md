@@ -30,7 +30,7 @@ Kaggle - площадка для упоротых дата-саентистов.
 
 Главное - [не путать цвета](https://acomics.ru/~gwtb/2). А кот - это [Nyan-cat](https://www.youtube.com/watch?v=QH2-TGUlwu4).
 
-Дуэли бывают разные. [Дуэль расистов](https://pikabu.ru/story/duyel_rasistov_3959659) - это хорошо
+Дуэли бывают разные. [Дуэль расистов](https://pikabu.ru/story/duyel_rasistov_3959659) - это хорошо, включая комментарии
 
 Вжух - и [всё готово](https://habr.com/ru/post/342950/). Нейросети же так работают. И запускаться можно сразу
 
