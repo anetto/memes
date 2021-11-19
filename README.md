@@ -16,6 +16,12 @@ Kaggle - площадка для упоротых дата-саентистов.
 
 ![python-env](img/xkcd_python_environment.png)
 
+Кот с гаечным ключом устал от [сложных](https://ru.wikipedia.org/wiki/Проблема_вагонетки) и нелогичных [задач](https://xkcd.ru/1134/)
+
+![vagon](img/vagon.jpg)
+
+![xkcd](img/xkcd_1134.png)
+
 Вжух - и [всё готово](https://habr.com/ru/post/342950/). Нейросети же так работают
 
 На эту страницу можно зайти по QR-коду
