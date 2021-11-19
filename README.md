@@ -16,6 +16,8 @@ Kaggle - площадка для упоротых дата-саентистов.
 
 ![python-env](img/xkcd_python_environment.png)
 
+Вжух - и [всё готово](https://habr.com/ru/post/342950/). Нейросети же так работают
+
 На эту страницу можно зайти по QR-коду
 
 ![QR](img/memes_qr_code.png)
