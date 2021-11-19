@@ -11,3 +11,9 @@ Kaggle - площадка для упоротых дата-саентистов.
 ![kaggle](img/kaggle.png)
 
 ООО мой питончик - питон хорош [всегда](https://xkcd.ru/353/), даже [когда не очень](https://xkcd.com/1987/)
+![353](img/xkcd_353.png)
+
+![python-env](img/xkcd_python_environment.png)
+
+На эту страницу можно зайти по QR-коду
+![QR](img/memes_qr_code.png)
