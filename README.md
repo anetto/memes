@@ -28,7 +28,7 @@ Kaggle - площадка для упоротых дата-саентистов.
 
 ![xkcd-795](img/xkcd_795.png)
 
-Главное - [не путать цвета](https://acomics.ru/~gwtb/2)
+Главное - [не путать цвета](https://acomics.ru/~gwtb/2). А кот - это [Nyan-cat](https://www.youtube.com/watch?v=QH2-TGUlwu4).
 
 Вжух - и [всё готово](https://habr.com/ru/post/342950/). Нейросети же так работают
 
