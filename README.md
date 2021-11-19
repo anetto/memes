@@ -8,4 +8,6 @@
 
 Kaggle - площадка для упоротых дата-саентистов. Где ещё можно [поисследовать мемы](https://www.kaggle.com/c/meme-analysis-challenge)?
 
+![kaggle](img/kaggle.png)
+
 ООО мой питончик - питон хорош [всегда](https://xkcd.ru/353/), даже [когда не очень](https://xkcd.com/1987/)
